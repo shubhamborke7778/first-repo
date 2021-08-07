@@ -1,2 +1,3 @@
 This is first contribution to work on Git.
-adding second line
+add third
+hello
